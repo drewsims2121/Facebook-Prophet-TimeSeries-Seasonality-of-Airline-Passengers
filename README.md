@@ -1,7 +1,7 @@
 # Facebook-Prophet-TimeSeries-Seasonality-of-Airline-Passengers
 Using Facebook Prophet's Library to determine the seasonality of airplane passengers time series data
 
-**The goal of this project is to determine whether a multiplicative or additive model would be better in determining seasonality upon trends in the airline passengers dataset**
+**The goal of this project is to determine whether a multiplicative or additive model would be better in determining seasonality upon trends in the airline passengers dataset.**
 
 **The Steps are as followed:**
 
